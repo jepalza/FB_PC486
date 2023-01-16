@@ -14,6 +14,7 @@ No tiene sonido, por que se ralentiza el emulador. Aún tiene muchos fallos, por
 En esta versión he re-organizado las carpetas, y he incluido un fichero de texto muy simple, donde indicamos la geometria y la ruta del disco duro a emplear.
 Recomiendo compilar con "fbc64 -gen gcc" (he dejado un .BAT que lo automatiza) en lugar de FBC, por que se gana un 20% de velocidad en la ejecución.
 
+El emulador permite entrar en la BIOS y modificar parámetros, pero solo guarda en RAM, no en fichero. Las ficheros de configuración de BIOS empleados por el emulador PCEM original no puede geenrarlos, solo leerlos. Por lo que recomiendo crearlos en un emulador PCEM original, y copiarlos a la carpeta BIOS ya configurados. (parámetros típicos de geometría de HDD)
 
 ![Imagen fb80486_bios.png](https://github.com/jepalza/FB_PC486/blob/main/pictures/fb80486_bios.jpg)
 ![Imagen fb80486_dos1.png](https://github.com/jepalza/FB_PC486/blob/main/pictures/fb80486_dos1.jpg)
