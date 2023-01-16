@@ -1,0 +1,3 @@
+#HDD\msdos622.img,512,63,16
+#HDD\MEMORIA_EMS.img,1580,63,16
+HDD\minix.img,1255,63,16

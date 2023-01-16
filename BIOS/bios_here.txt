@@ -1,0 +1,1 @@
+like in PCEM, "NVR" files are "save bios config"
